@@ -1,0 +1,6 @@
+#!/bin/bash
+./sbin/rabbitmq-server&
+sleep 100
+./sbin/rabbitmqctl add_vhost vTestManager
+./sbin/rabbitmqctl add_user user1 pass1
+./sbin/rabbitmqctl set_permissions -p vTestManager user1 ".*" ".*" ".*"
