@@ -1,0 +1,828 @@
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: _ssl.c:489: The handshake operation timed out
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:AgentManager:Agent Started and listening
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to ::1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:pika.adapters.base_connection:Connecting to 127.0.0.1:5671 with SSL
+WARNING:pika.adapters.base_connection:Connection to 127.0.0.1:5671 failed: [Errno 336265218] _ssl.c:351: error:140B0002:SSL routines:SSL_CTX_use_PrivateKey_file:system lib
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL

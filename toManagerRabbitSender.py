@@ -7,8 +7,7 @@ class ManagerNotifier:
 	def __init__(self,agent_id):
 		s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 # require a certificate from the server
-		ssl_sock = ssl.wrap_socket(s,server_side=True,certfile="/Users/iridium/Jobs/client/key.pem",keyfile="/Users/iridium/Jobs/client/cert.pem")
-		dic= {'certfile': "/Users/iridium/Jobs/client/cert.pem", 'keyfile': "/Users/iridium/Jobs/client/key.pem"}
+		dic= {'certfile': "/opt/testAgent/certificates/client/cert.pem", 'keyfile': "/opt/testAgent/certificates/client/key.pem"}
 		credentials= pika.credentials.PlainCredentials('user1','pass1')
 		connection = pika.BlockingConnection(pika.ConnectionParameters(host='localhost',virtual_host ='vTestManager',credentials=credentials,ssl=True,ssl_options=dic,port=5671))
 #sender=ManagerNotifier(connection,"agent1")

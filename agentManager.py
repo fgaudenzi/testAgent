@@ -29,13 +29,34 @@ def do_something():
 
 	agentLogger = logging.getLogger("AgentManager")
 	agentLogger.info('Agent Started and listening')
-	s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+	#s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 	# require a certificate from the server
-	ssl_sock = ssl.wrap_socket(s,server_side=True,certfile="/Users/iridium/Jobs/client/key.pem",keyfile="/Users/iridium/Jobs/client/cert.pem")
-	dic= {'certfile': "/Users/iridium/Jobs/client/cert.pem", 'keyfile': "/Users/iridium/Jobs/client/key.pem"}
+	'''ssl_sock = ssl.wrap_socket(
+		s,server_side=True,
+		ca_certs="/etc/ssl/certs/ca-bundle.crt",
+		certfile="/opt/testAgent/certificates/client/cert.pem",
+		keyfile="/opt/testAgent/certificates/client/key.pem"
+		)'''
+	
+	dic = {
+	'certfile': "/opt/testAgent/certificates/client/cert.pem",
+	'keyfile': "/opt/testAgent/certificates/client/key.pem",
+	'ca_certs':"/opt/testAgent/certificates/testca/cacert.pem",
+	
+	}
+
 	credentials= pika.credentials.PlainCredentials('user1','pass1')
 	global sender
-	connection = pika.BlockingConnection(pika.ConnectionParameters(host='localhost',virtual_host ='vTestManager',credentials=credentials,ssl=True,ssl_options=dic,port=5671))
+	connection = pika.BlockingConnection(
+		pika.ConnectionParameters(
+			host='localhost',
+			virtual_host ='vTestManager',
+			credentials=credentials,
+			ssl=True,
+			ssl_options=dic,
+			port=5671
+			)
+		)
 	sender=ManagerNotifier("agent1")
 	channel = connection.channel()
 	channel.exchange_declare(exchange='broadcast_to_agent',
@@ -45,7 +66,7 @@ def do_something():
 
 	channel.queue_bind(exchange='broadcast_to_agent',
 								queue=queue_name)
-	
+		
 	print ' [*] Waiting for logs. To exit press CTRL+C'
 	channel.basic_consume(callback,queue=queue_name,no_ack=True)
 	channel.start_consuming()	
