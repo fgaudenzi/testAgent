@@ -8,11 +8,7 @@ def usage():
     print "ehealthclient.py -p [port] -h [host]"
 
 
-output_toparse="/Users/iridium/Jobs/testManager/testManager/XMLRepository/nmap.txt"
-with open(output_toparse,'r') as f:
-				#result=result+ev_code+"$"+f.read()+"\n"
-				xml_message=f.read()
-xml_message="""\
+document = """\
 <slideshow>
 <title>Demo slideshow</title>
 <slide><title>Slide title</title>
@@ -27,7 +23,43 @@ xml_message="""\
 </slide>
 </slideshow>
 """
+output_toparse="/Users/iridium/Jobs/testManager/testManager/XMLRepository/nmap.txt"
+with open(output_toparse,'r') as f:
+				#result=result+ev_code+"$"+f.read()+"\n"
+				xml_message=f.read()
 dom = parseString(xml_message)
+host=dom.getElementsByTagName("nmaprun")[0].getElementsByTagName("host")[0];
+print "HOSTNAME: "+host.getElementsByTagName("hostname")[0].getAttribute("name")
+port=host.getElementsByTagName("ports")[0].getElementsByTagName("port")[0]
+print "PORT: "+port.getAttribute("portid")
+print "PORT STATE: "+port.getElementsByTagName("state")[0].getAttribute("state")
+print "SERVICE RUNNING: "+port.getElementsByTagName("service")[0].getAttribute("name")
+ssl_scripts=port.getElementsByTagName("script")
+for script in ssl_scripts:
+	if script.getAttribute("id")=="ssl-cert":
+		ssl_cert=script
+	if script.getAttribute("id")=="ssl-enum-ciphers":
+		ssl_cipher=script
+
+table=ssl_cert.getElementsByTagName("table")
+for info in table:
+	if info.getAttribute("key")=="validity":
+		values=info.getElementsByTagName("elem")	
+		for value in values:
+			if value.getAttribute("key")=="notBefore":
+			
+				print "NOT VALID BEFORE: "+value.childNodes[0].nodeValue
+			if value.getAttribute("key")=="notAfter":
+				
+				print "NOT VALID AFTER: "+value.childNodes[0].nodeValue
+
+
+table=ssl_cipher.getElementsByTagName("elem")
+for info in table:
+		
+	if info.getAttribute("key")=="least strength":
+		print "KEY STRENGTH:"+info.childNodes[0].nodeValue	
+		
 
 def getText(nodelist):
     rc = []
@@ -71,7 +103,7 @@ def handleToc(slides):
         title = slide.getElementsByTagName("title")[0]
         print "<p>%s</p>" % getText(title.childNodes)
 
-handleSlideshow(dom)
+#handleSlideshow(dom)
 #try:     
 #	opts, args = getopt.getopt(sys.argv[1:], "h:i:o:", ["host=","init=","output=","help"]) 
 #except getopt.GetoptError:           
