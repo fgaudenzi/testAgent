@@ -74,13 +74,14 @@ class DoCollector:
 		from os.path import isfile
 		lista=[]
 		mypath=self.repository
-		#print mypath+"/"+self.executor
-		#print listdir(mypath)
+		# print mypath+"/"+self.executor
+		 #print listdir(mypath)
 		for f in listdir(mypath):
 			if isfile(mypath+"/"+f):
 				lista=lista+[f]
-		print lista
-		print self.executor
+		#print lista
+
+		#print self.executor
 		if self.executor in lista:
 			return mypath+"/"+self.executor
 		return False	

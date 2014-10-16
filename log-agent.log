@@ -2346,3 +2346,124 @@ INFO:DoCertify:CM:cumulus:cm:id:test:93408-COL:cfile - Starting Collector
 INFO:DoCertify:CM:cumulus:cm:id:test:93408-COL:cfile - Starting Collector
 INFO:log-agent.log:Execution TestCase:1 -command: python /Users/iridium/Jobs/pythonAgents/testRepository/File.py --init=/Users/iridium/Jobs/pythonAgents/newF/cumulus:cm:id:test:93408/cfile/config-1.ini --output=/Users/iridium/Jobs/pythonAgents/newF/cumulus:cm:id:test:93408/cfile/evidence-1.out
 INFO:log-agent.log:Execution TestCase:1 -command: python /Users/iridium/Jobs/pythonAgents/testRepository/welight.py --init=/Users/iridium/Jobs/pythonAgents/newF/cumulus:cm:id:test:93408/cdb/config-1.ini --output=/Users/iridium/Jobs/pythonAgents/newF/cumulus:cm:id:test:93408/cdb/evidence-1.out
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:receiver:Received message with body:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cm id="cumulus:cm:id:test:93408">
+    <collector tot="welight.py" id="cdb">
+        <TestCases>
+            <TestCase>
+                <ID>1</ID>
+                <TestInstance Operation="0">
+                    <Input>welighturl=cumulus-project.sytes.net welightport=18080 protocol=https</Input>
+                </TestInstance>
+                <TestInstance Operation="1">
+                    <Input>username=admin password=$ah0rr3m0s</Input>
+                </TestInstance>
+                <TestInstance Operation="2">
+                    <Input>id=1</Input>
+                </TestInstance>
+                <TestInstance Operation="3">
+                    <Input>username=cumulus host=cumulus-project.sytes.net port=10022 ssh_key_path=/Users/iridium/Downloads/cumulus.key ssh_server_key_path=ssh_public_key welight_keyfile=/opt/welight/app/keyset/1 welight_metafile=/opt/welight/app/keyset/meta</Input>
+                </TestInstance>
+                <TestInstance Operation="4">
+                    <Input>port=3306 host=127.0.0.1 local_port=11306</Input>
+                </TestInstance>
+                <TestInstance Operation="5">
+                    <Input>username=welight password=w3l1ght database=welight</Input>
+                </TestInstance>
+                <TestInstance Operation="6">
+                    <Input>table=webserver_electricalpanel</Input>
+                </TestInstance>
+                <TestInstance Operation="7">
+                    <Input>encrypted_prefix=enc_str:::</Input>
+                </TestInstance>
+            </TestCase>
+        </TestCases>
+    </collector>
+    <collector tot="File.py" id="cfile">
+        <TestCases>
+            <TestCase>
+                <ID>1</ID>
+                <TestInstance Operation="0">
+                    <Input>host=cumulus-project.sytes.net port=55022 ssh_key_path=/Users/iridium/Downloads/cumulus.key ssh_server_key_path=ssh_public_key</Input>
+                </TestInstance>
+                <TestInstance Operation="1">
+                    <Input>filepath=/opt/welight/app/keyset/1 chmod=664</Input>
+                </TestInstance>
+                <TestInstance Operation="2">
+                    <Input>username_owner=cumulus</Input>
+                </TestInstance>
+                <TestInstance Operation="3">
+                    <Input>username_group=cumulus_grp</Input>
+                </TestInstance>
+                <TestInstance Operation="4">
+                    <Input>username_other=cumulus_oth</Input>
+                </TestInstance>
+            </TestCase>
+        </TestCases>
+    </collector>
+</cm>
+
+INFO:DoCertify:Certificate Init CM_ID:cumulus:cm:id:test:93408
+INFO:log-agent.log:Collector Init rep:/Users/iridium/Jobs/pythonAgents/testRepository - folder:/Users/iridium/Jobs/pythonAgents/newF/cumulus:cm:id:test:93408/cdb - executor:welight.py - input:<TestCases>
+            <TestCase>
+                <ID>1</ID>
+                <TestInstance Operation="0">
+                    <Input>welighturl=cumulus-project.sytes.net welightport=18080 protocol=https</Input>
+                </TestInstance>
+                <TestInstance Operation="1">
+                    <Input>username=admin password=$ah0rr3m0s</Input>
+                </TestInstance>
+                <TestInstance Operation="2">
+                    <Input>id=1</Input>
+                </TestInstance>
+                <TestInstance Operation="3">
+                    <Input>username=cumulus host=cumulus-project.sytes.net port=10022 ssh_key_path=/Users/iridium/Downloads/cumulus.key ssh_server_key_path=ssh_public_key welight_keyfile=/opt/welight/app/keyset/1 welight_metafile=/opt/welight/app/keyset/meta</Input>
+                </TestInstance>
+                <TestInstance Operation="4">
+                    <Input>port=3306 host=127.0.0.1 local_port=11306</Input>
+                </TestInstance>
+                <TestInstance Operation="5">
+                    <Input>username=welight password=w3l1ght database=welight</Input>
+                </TestInstance>
+                <TestInstance Operation="6">
+                    <Input>table=webserver_electricalpanel</Input>
+                </TestInstance>
+                <TestInstance Operation="7">
+                    <Input>encrypted_prefix=enc_str:::</Input>
+                </TestInstance>
+            </TestCase>
+        </TestCases>
+INFO:log-agent.log:Collector Init rep:/Users/iridium/Jobs/pythonAgents/testRepository - folder:/Users/iridium/Jobs/pythonAgents/newF/cumulus:cm:id:test:93408/cfile - executor:File.py - input:<TestCases>
+            <TestCase>
+                <ID>1</ID>
+                <TestInstance Operation="0">
+                    <Input>host=cumulus-project.sytes.net port=55022 ssh_key_path=/Users/iridium/Downloads/cumulus.key ssh_server_key_path=ssh_public_key</Input>
+                </TestInstance>
+                <TestInstance Operation="1">
+                    <Input>filepath=/opt/welight/app/keyset/1 chmod=664</Input>
+                </TestInstance>
+                <TestInstance Operation="2">
+                    <Input>username_owner=cumulus</Input>
+                </TestInstance>
+                <TestInstance Operation="3">
+                    <Input>username_group=cumulus_grp</Input>
+                </TestInstance>
+                <TestInstance Operation="4">
+                    <Input>username_other=cumulus_oth</Input>
+                </TestInstance>
+            </TestCase>
+        </TestCases>
+INFO:DoCertify:CM:cumulus:cm:id:test:93408-COL:cfile - Starting Collector
+INFO:DoCertify:CM:cumulus:cm:id:test:93408-COL:cfile - Starting Collector
+INFO:log-agent.log:Execution TestCase:1 -command: python /Users/iridium/Jobs/pythonAgents/testRepository/welight.py --init=/Users/iridium/Jobs/pythonAgents/newF/cumulus:cm:id:test:93408/cdb/config-1.ini --output=/Users/iridium/Jobs/pythonAgents/newF/cumulus:cm:id:test:93408/cdb/evidence-1.out
+INFO:log-agent.log:Execution TestCase:1 -command: python /Users/iridium/Jobs/pythonAgents/testRepository/File.py --init=/Users/iridium/Jobs/pythonAgents/newF/cumulus:cm:id:test:93408/cfile/config-1.ini --output=/Users/iridium/Jobs/pythonAgents/newF/cumulus:cm:id:test:93408/cfile/evidence-1.out
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:AgentManager:Agent Started and listening
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
+INFO:pika.adapters.base_connection:Connecting to ::1:5671 with SSL
